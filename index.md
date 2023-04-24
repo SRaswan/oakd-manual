@@ -1,4 +1,6 @@
 # OAK-D User Manual
+Luxonis documentation for DepthAI: https://docs.luxonis.com/en/latest/
+
 
 ## Installation
 
