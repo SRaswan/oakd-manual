@@ -2,19 +2,19 @@
 Luxonis documentation for DepthAI: https://docs.luxonis.com/en/latest/
 
 ## Camera Settings
-Program auto
-Flash off
-ISO-A 1600
-Exposure bias 0
-Single shot
-Underwater shallow white balance
-ESP metering
-Face priority off
-Accessory off
-Jpeg mode underwater
-Autofocus
-Aspect ratio 4000x 3000
-Output format If + raw
+Program auto\
+Flash off\
+ISO-A 1600\
+Exposure bias 0\
+Single shot\
+Underwater shallow white balance\
+ESP metering\
+Face priority off\
+Accessory off\
+Jpeg mode underwater\
+Autofocus\
+Aspect ratio 4000 x 3000\
+Output format If + raw\
 Still image stabilization on
 
 ## Installation
