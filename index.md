@@ -17,3 +17,5 @@ Autofocus\
 Aspect ratio 4000 x 3000\
 Output format If + raw\
 Still image stabilization on
+
+Refer to the appropriate camera's manual to turn the correct settings on or off as specified above.
