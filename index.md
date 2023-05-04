@@ -18,7 +18,7 @@ Aspect ratio 4000 x 3000\
 Output format If + raw\
 Still image stabilization on
 
-Refer to the appropriate camera's manual to ensure that the above settings have been set correctly.
+Refer to the appropriate camera's manual to make sure that the above settings have been set correctly.
 
 ## Assembly
 1. 
@@ -38,3 +38,6 @@ Refer to the appropriate camera's manual to ensure that the above settings have 
 1.  Place the calibration board perpendicular to the optical axis of the camera to start.
 2.  Camera Calibration: Take 50-60 images of the calibration board at varying angles and distances.
 3.  Laser Calibration: Take a picture of the laser dot from 0.5 to 6m with 0.1m increments. Use the front edge of chamfer on top of the camera housing as distance reference.
+
+## Viewing Data
+TBD
